@@ -1,9 +1,4 @@
-# Java-Full-Stack-Project-SDP1-
-#� �J�a�v�a�-�F�u�l�l�-�S�t�a�c�k�-�P�r�o�j�e�c�t�-�S�D�P�3�-�
-�
-�#� �J�a�v�a�-�F�u�l�l�-�S�t�a�c�k�-�P�r�o�j�e�c�t�-�S�D�P�3�-�
-�
-�
+# Java-Full-Stack-Project-SDP3-
 
 ![Home Page](https://user-images.githubusercontent.com/87435152/207218832-77f879c8-abb9-4968-a3c6-3d6ca2b7b5c0.png)
 ![Student Login](https://user-images.githubusercontent.com/87435152/207218851-34d73f48-dc43-49d0-8fd0-7a9fd2c589f4.png)
