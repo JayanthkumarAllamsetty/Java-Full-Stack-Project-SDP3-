@@ -16,7 +16,8 @@ pipeline {
 
         stage('Build project') {
             steps {
-                sh "${mvnHome}/bin/mvn clean package" // Run Maven to build the project
+                sh '/path/to/maven/bin/mvn clean package'
+ // Run Maven to build the project
             }
         }
     }
