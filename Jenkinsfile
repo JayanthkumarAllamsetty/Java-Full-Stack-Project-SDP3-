@@ -18,7 +18,8 @@ pipeline {
 
         stage('Build project') {
             steps {
-                sh '/path/to/maven/bin/mvn clean package'
+               sh '/c/Program Files/apache-maven-3.9.1/bin/mvn clean package'
+
  // Run Maven to build the project
             }
         }
