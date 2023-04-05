@@ -18,7 +18,8 @@ pipeline {
 
         stage('Build project') {
             steps {
-              sh "/c/PROGRA~1/apache-maven-3.9.1/bin/mvn clean package"
+              bat 'mvn clean package'
+
 
 
  // Run Maven to build the project
